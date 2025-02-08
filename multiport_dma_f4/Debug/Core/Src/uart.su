@@ -1,0 +1,17 @@
+../Core/Src/uart.c:6:6:dummy485	4	static
+../Core/Src/uart.c:11:6:COM_Select	16	static
+../Core/Src/uart.c:16:6:COM_Init	32	static
+../Core/Src/uart.c:45:6:COM_SetCallbacks485	16	static
+../Core/Src/uart.c:53:6:COM_WaitTxDone	4	static,ignoring_inline_asm
+../Core/Src/uart.c:62:6:COM_Write	16	static
+../Core/Src/uart.c:72:6:COM_WriteFast	16	static
+../Core/Src/uart.c:80:6:COM_ReadByteTimeout	24	static
+../Core/Src/uart.c:102:6:COM_ReadByteFast	16	static
+../Core/Src/uart.c:108:6:COM_ReadByte	16	static
+../Core/Src/uart.c:113:6:COM_ReadTimeout	40	static
+../Core/Src/uart.c:163:6:COM_ReadFast	16	static
+../Core/Src/uart.c:169:6:COM_Read	16	static
+../Core/Src/uart.c:174:6:COM_CleanRxFail	4	static
+../Core/Src/uart.c:179:6:COM_RxFail	4	static
+../Core/Src/uart.c:183:13:tranmissionEachByte	24	static
+../Core/Src/uart.c:194:6:myPrintf	272	static
